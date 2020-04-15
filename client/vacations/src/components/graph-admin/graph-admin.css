@@ -1,0 +1,23 @@
+.graphs-admin {
+    height: 70%;
+    text-align:center;
+}
+
+.VictoryContainer {
+    width: 900px!important;
+    margin-left: 20%;
+}
+
+.followVacationText {
+    margin-left: 145px;
+    font-size: 14px;
+    margin-bottom: -30px;
+    color: green;
+}
+
+.unfollowVacationText {
+    margin-left: 145px;
+    font-size: 14px;
+    margin-bottom: -30px;
+    color: red;
+}

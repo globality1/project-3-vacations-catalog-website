@@ -1,0 +1,26 @@
+.vacations-admin > table {
+    margin: auto;
+    width: 80%;
+    border: 1px solid blue;
+
+}
+
+.vacations-admin > table, .vacations-admin th, .vacations-admin td {
+    border: 1px solid blue;
+    font-size: 15px!important;
+}
+
+.vacations-admin td:first-child {
+    text-align: left;
+    padding: 10px
+}
+
+.vacations-admin {
+    height: 90%;
+    overflow: auto;
+}
+
+.adminImage {
+    width: 100px;
+    height: 100px;
+}

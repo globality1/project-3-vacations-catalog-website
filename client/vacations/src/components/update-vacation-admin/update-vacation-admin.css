@@ -1,0 +1,25 @@
+.update{
+    margin:0 auto;
+    padding:14px;
+    height: 100%;
+}
+
+
+.update > input{
+    float:left;
+    font-size:11px;
+    padding:4px 2px;
+    border:solid 1px #aacfe4;
+    width:70px;
+    margin:2px 0 20px 10px;
+}
+
+.previewImage {
+    width: 150px!important;
+    height: 150px!important;
+}
+
+.uploadPreviewImage {
+    max-width: 150px!important;
+    max-height: 150px!important;
+}

@@ -1,0 +1,11 @@
+.row {
+    margin: 0!important;
+}
+
+.row > div {
+     display: inline-block;
+     box-shadow: 2px 2px 20px black;
+     border-radius: 25px; 
+     margin: 25px;
+     width: 350px;
+}

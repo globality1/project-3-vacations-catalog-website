@@ -1,0 +1,41 @@
+.menu > a {
+    color: var(--black-600);
+    font-size:25px;
+    top:10px;
+    height: 44px;
+}
+
+
+.menu > span {
+    font-size:35px;
+}
+
+.menu > a:hover {
+    color: white;
+    background-color: grey;
+    box-shadow: honeydew;
+    border-radius: 30px;
+}
+
+.menu > .active {
+    color: magenta;
+}
+
+.welcomeMessage {
+    color: salmon;
+    font-size: 25px!important;
+    top: 10px;
+    text-align: right;
+}
+
+.logout {
+    color: red;
+}
+
+.spacingDiv {
+    box-shadow: none!important;
+}
+
+.menuSelection {
+    min-width: 90px;
+}
